@@ -19,6 +19,12 @@ Source: https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset
 14. Forearm circumference (cm)
 15. Wrist circumference (cm)
 
+## Task Details
+1. If you have some experience with R or Python and machine learning basics, this is the perfect task for data science students who have completed an online course in machine learning and are looking to expand their skill set before trying a featured competition.
+2. Prediction for the body fat percentage for a test set. Note that the use of the Density variable is not allowed since the body fat is calculated directly with the density.
+3. Evaluation: Evaluation using RMSE
+
+
 ### More details:
 A variety of popular health books suggest that the readers assess their health, at least in part, by estimating their percentage of body fat. In Bailey (1994), for instance, the reader can estimate body fat from tables using their age and various skin-fold measurements obtained by using a caliper. Other texts give predictive equations for body fat using body circumference measurements (e.g. abdominal circumference) and/or skin-fold measurements. See, for instance, Behnke and Wilmore (1974), pp. 66-67; Wilmore (1976), p. 247; or Katch and McArdle (1977), pp. 120-132).
 
